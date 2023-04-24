@@ -4,7 +4,7 @@ setup(
     name='PDFmanipulator_package',
     version='0.4',
     packages=find_packages(),
-    install_requires=[    'PyPDF2==1.26.0',    'PyMuPDF==1.18.14',    'reportlab==3.5.68',    'io==0.1.16',    'shutil==0.0.1'],
+    install_requires=[    'PyPDF2',    'io',    'shutil'],
     author='Thalia',
     author_email='xi1le7@gmail.com',
     description='Manipulation de PDF',

@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='PDFmanipulator_package',
-    version='0.4',
+    version='0.5',
     packages=find_packages(),
     install_requires=[    'PyPDF2',    'io',    'shutil'],
     author='Thalia',

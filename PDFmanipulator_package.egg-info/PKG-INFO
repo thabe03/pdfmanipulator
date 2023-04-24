@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: PDFmanipulator-package
+Version: 0.1
+Summary: Manipulation de PDF
+Home-page: https://github.com/thabe03/pdfmanipulator
+Author: Thalia
+Author-email: xi1le7@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9

@@ -5,4 +5,3 @@ PDFmanipulator_package.egg-info/dependency_links.txt
 PDFmanipulator_package.egg-info/requires.txt
 PDFmanipulator_package.egg-info/top_level.txt
 pdfmanipulator/__init__.py
-pdfmanipulator/ocr.py
